@@ -1,7 +1,3 @@
-# Laravel From Scratch Blog Demo Project
-
-http://laravelfromscratch.com
-
 ## Installation
 
 First clone this repository, install the dependencies, and setup your .env file.
